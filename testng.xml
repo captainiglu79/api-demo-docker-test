@@ -1,0 +1,8 @@
+
+<suite name="APITests">
+    <test name="Sample API Tests">
+        <classes>
+            <class name="org.example.APITest"/>
+        </classes>
+    </test>
+</suite>
